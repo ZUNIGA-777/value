@@ -3,5 +3,5 @@ const boton = document.querySelector("#btn")
 
 boton.addEventListener("click", ()=>{
     const valorEntrada = input.value
-    alert(`Hola, ${valorEntrada}!!!`)
+    alert(`Hola ${valorEntrada}!!!`)
 })
