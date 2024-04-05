@@ -1,0 +1,19 @@
+body {
+    background-color: #61a146;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+h1 {
+    color: #333366;
+}
+
+#entrada {
+    color: #333333;
+    border: solid #333333;
+}
+
+#btn {
+    border: 0;
+    background-color: #3d692c;
+    color: white;
+}
